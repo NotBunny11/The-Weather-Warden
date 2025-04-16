@@ -1,0 +1,26 @@
+# 🌦️ Weather Warden
+
+Weather Warden is a modern weather forecasting web application built using **React.js** and powered by the **OpenWeatherMap API**. It provides real-time weather updates and a 5-day forecast for any city worldwide.
+
+## 🔧 Features
+
+- Real-time weather updates
+- 5-day forecast with icons
+- Search any global city
+- Responsive design (desktop/mobile)
+- Error handling for invalid cities
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- OpenWeatherMap API
+- Axios
+- CSS3
+- Vite (build tool)
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
